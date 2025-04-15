@@ -1,6 +1,6 @@
 # Pegasus-Spear
 
-![Pegasus-Spear](Pegasus-spear.jpg)
+![Pegasus-Spear]
 
 Pegasus-Spear is a Python-based Remote Access Tool designed for educational and authorized testing purposes only.
 
