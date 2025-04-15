@@ -4,10 +4,6 @@
 
 Pegasus-Spear is a Python-based Remote Access Tool designed for educational and authorized testing purposes only.
 
-## ⚠️ Important Security Notice
-
-This software is intended for educational purposes and authorized security testing only. Misuse of this software can raise legal and ethical issues which the authors do not support and cannot be held responsible for.
-
 ## Contact & Support
 
 - **Author**: Letda Kes dr. Sobri, S.Kom
