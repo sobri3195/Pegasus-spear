@@ -1,0 +1,29 @@
+Flask>=2.3.3
+Flask-Script>=2.0.6
+Flask-SQLAlchemy>=3.1.1
+Flask-Limiter>=3.5.0
+Werkzeug>=2.3.7
+requests>=2.31.0
+pyaudio>=0.2.13
+Pillow>=10.0.1
+pyscreenshot>=3.1
+geopy>=2.4.0
+pygeocoder>=1.2.5
+cryptography>=41.0.4
+python-dotenv>=1.0.0
+gunicorn>=21.2.0
+SQLAlchemy>=2.0.21
+termcolor>=2.3.0
+psutil>=5.9.5
+pyinstaller>=6.1.0  # For compiling to executable
+
+# New dependencies for additional features
+opencv-python>=4.8.1
+numpy>=1.26.0
+sounddevice>=0.4.6
+keyboard>=0.13.5
+pyperclip>=1.8.2
+browser-cookie3>=0.19.1
+wmi>=1.5.1  # Windows only
+scipy>=1.11.3  # For audio processing
+pywin32>=306; platform_system=="Windows"  # Windows only
